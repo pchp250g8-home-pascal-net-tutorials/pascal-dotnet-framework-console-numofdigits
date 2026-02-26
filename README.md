@@ -10,3 +10,5 @@ a positive value equal in magnitude to the number entered from the keyboard.
   b) The temporary variable is divisible by 10.
   c) The digit counter variable is incremented by one.
 5. The entered number and the number of its digits are displayed on the screen.
+
+Занятия по Pascal. Платформа DotNet FrameWork. Алгоритмы. Простой ввод/вывод. Консольное приложение.
