@@ -1,4 +1,4 @@
-NumOfDigits. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Console Application. 
+NumOfDigits. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Console Application.
 A console application project written in the Pascal programming language and implemented in the PascalABCDotNet integrated environment. 
 The .Net FrameWork platform provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 The program does the following:
